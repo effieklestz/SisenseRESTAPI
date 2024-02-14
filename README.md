@@ -1,2 +1,2 @@
 # SisenseRESTAPI
-My Repo for interacting with Sisense API
+Repo for interacting with Sisense API
